@@ -5,6 +5,7 @@ public class BadCode {
         int b = 10;
         int sum = add(a, b);
         System.out.println("Die Summe ist: " + sum);
+        System.out.println("Das ist neu");
     }
 
     public static int add(int x, int y) {
